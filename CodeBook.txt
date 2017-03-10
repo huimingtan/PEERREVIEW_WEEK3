@@ -1,0 +1,6 @@
+variable name - subject,activity name,
+variable type-numerical,factor with 6 levels
+variable value- 1 until 30
+                WALKING, WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING
+Measurements
+
